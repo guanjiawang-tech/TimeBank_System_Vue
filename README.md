@@ -1,4 +1,5 @@
 # TimeBank_System_Vue
+<<<<<<< HEAD
 
 This template should help get you started developing with Vue 3 in Vite.
 
@@ -31,3 +32,6 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+Time Bank Administrator Client
+>>>>>>> fc1d0b2afbc3feb582f0bcb8fc05791a5230e07a
